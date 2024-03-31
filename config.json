@@ -1,10 +1,10 @@
 {
-  networks:[
-    {"name":"Ethereum Holesky Testnet", "token_address":"0x", "provider":"https://ethereum-holesky.publicnode.com/"},
-    {"name":"Optimism Sepolia Testnet", "token_address":"0x", "provider":"https://sepolia.optimism.io"},
-    {"name":"Arbitrum Sepolia Testnet", "token_address":"0x", "provider":"https://arbitrum-sepolia.blockpi.network/v1/rpc/public"},
-    {"name":"Binance Smart Chain Testnet", "token_address":"0x", "provider":"https://bsc-testnet-rpc.publicnode.com"},
-    {"name":"Fantom Testnet", "token_address":"0x", "provider":"https://fantom.api.onfinality.io/public"},
-    {"name":"Polygon Testnet", "token_address":"0x", "provider":"https://polygon-mumbai-bor-rpc.publicnode.com"},
+  "networks": [
+    {"name": "Ethereum Holesky Testnet", "token_address": "0x", "provider": "https://ethereum-holesky.publicnode.com/"},
+    {"name": "Optimism Sepolia Testnet", "token_address": "0x", "provider": "https://sepolia.optimism.io"},
+    {"name": "Arbitrum Sepolia Testnet", "token_address": "0x", "provider": "https://arbitrum-sepolia.blockpi.network/v1/rpc/public"},
+    {"name": "Binance Smart Chain Testnet", "token_address": "0x", "provider": "https://bsc-testnet-rpc.publicnode.com"},
+    {"name": "Fantom Testnet", "token_address": "0x", "provider": "https://fantom.api.onfinality.io/public"},
+    {"name": "Polygon Testnet", "token_address": "0x", "provider": "https://polygon-mumbai-bor-rpc.publicnode.com"}
   ]
 }
